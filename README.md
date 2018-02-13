@@ -1,4 +1,7 @@
 # markdown-learn
+[<img src="https://www.djangoproject.com/s/img/logos/django-logo-negative.png" width="300">](https://www.djangoproject.com)
+
+![](https://www.djangoproject.com/s/img/logos/django-logo-negative.png)
 
 # h1
 ## h2
